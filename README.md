@@ -31,23 +31,23 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="./img/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
       <br>C#
     </td>
     <td align="center" width="96">
-      <img src="./img/sql-database.svg" width="48" height="48" alt="SQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" />
       <br>SQL
     </td>
     <td align="center" width="96">
-      <img src="./img/netcore-original.svg" width="48" height="48" alt=".NET Core" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET Core" />
       <br>.NET Core
     </td>
     <td align="center" width="96">
-      <img src="./img/github-original.svg" width="48" height="48" alt="GitHub" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
   </tr>
