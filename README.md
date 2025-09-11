@@ -58,9 +58,8 @@
 
 ### 🗺️ Roadmap Completed
 <p align="center">
-  <img src="./roadmap.png" alt="Roadmap" width="700"/>
+  <img src="https://uploads.teachablecdn.com/attachments/jlJAuzdhQsaQppzKYUR9_1000116077.png" alt="Roadmap" width="700"/>
 </p>
-
 ---
 
 ### 📫 Connect With Me
