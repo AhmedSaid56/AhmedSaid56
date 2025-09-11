@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi There! I'm Ahmed Said</h1>
+<h1 align="center">👋 Hi there! I'm Ahmed Said</h1>
 <h3 align="center">A Backend Developer passionate about building scalable and efficient systems</h3>
 
 ---
