@@ -4,9 +4,6 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=USERNAME" alt="Profile Views" />
-  </a>
   <a href="https://www.linkedin.com/in/USERNAME">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin">
   </a>
@@ -15,7 +12,7 @@
 ---
 
 ### 🛠️ About Me
-- 💻 **Backend Developer** specializing in **C#**, **SQL**, and **.NET Core**
+- 💻 **Software Developer** specializing in **C#**, **SQL**, and **.NET Framework**
 - 🎯 Completed a comprehensive roadmap covering:  
   * Programming Fundamentals  
   * Algorithms and Data Structures  
@@ -43,8 +40,8 @@
       <br>SQL
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET Core" />
-      <br>.NET Core
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET Framework" />
+      <br>.NET Framework
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
@@ -64,5 +61,6 @@
 
 ### 📫 Connect With Me
 - [GitHub](https://github.com/Ahmed56)
+- [Linkedin](www.linkedin.com/in/ahmed-said-0b4b7938b)
 
 ---
