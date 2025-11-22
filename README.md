@@ -30,7 +30,7 @@
       <br>SQL
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET Framework" />
+       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_Logo.svg" width="48" height="48" alt=".NET Framework" />
       <br>.NET Framework
     </td>
     <td align="center" width="96">
