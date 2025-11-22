@@ -1,16 +1,6 @@
 <h1 align="center">👋 Hi there! I'm Ahmed Said</h1>
 <h3 align="center">Junior Software Developer specializing in the .NET Framework and passionate about clean, maintainable software.</h3>
 
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/USERNAME">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin">
-  </a>
-</p>
-
----
-
 ### 🛠️ About Me
 - 💻 **Software Developer** specializing in **C#**, **SQL**, and **.NET Framework**
 - 🎯 Completed a comprehensive roadmap covering:  
