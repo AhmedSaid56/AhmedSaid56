@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there! I'm Ahmed Said</h1>
-<h3 align="center">A Backend Developer passionate about building scalable and efficient systems</h3>
+<h3 align="center">Junior Software Developer specializing in the .NET Framework and passionate about clean, maintainable software.</h3>
 
 ---
 
