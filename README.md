@@ -51,6 +51,4 @@
 
 ### 📫 Connect With Me
 - [GitHub](https://github.com/Ahmed56)
-- [Linkedin](www.linkedin.com/in/ahmed-said-0b4b7938b)
-
 ---
